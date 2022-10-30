@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chriritt
+- 🖖 Hi, I’m Chris (@chriritt)
 - 👀 I’m interested in gaming, graphic design, coding, tech
 - 🌱 I’m currently learning C# and Java
 <!---
