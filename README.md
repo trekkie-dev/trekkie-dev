@@ -1,4 +1,7 @@
 # 🖖 Chris Ritter
+
+###
+
 - 👀 I’m interested in gaming, graphic design, coding, tech
 - 🌱 I’m currently learning C# and Java
 <!---
