@@ -1,5 +1,5 @@
 # 🖖 Chris Ritter
----
+
 **`Software Engineer / Graphic Designer / Trekkie`**
 
 I'm a skilled C# .NET, HTML, and CSS developer with a passion for creating interactive applications. Just like Captain Jean-Luc Picard of the USS Enterprise, I strive for excellence in every line of code I write, constantly seeking out new challenges and pushing the boundaries of what's possible in the world of software development.
@@ -24,4 +24,10 @@ Let's connect and discuss how I can bring my passion for software development an
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><br><br><br>
+
+---
+
+### 📈 Github Stats
+
+![Chris Ritter Github Stats](https://github-readme-stats.vercel.app/api?username=chriritt&show_icons=true&theme=cobalt2) 
