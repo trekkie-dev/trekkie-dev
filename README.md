@@ -1,4 +1,4 @@
-## 🖖 Chris Ritter
+# 🖖 Chris Ritter
 
 **`Software Engineer / Graphic Designer / Trekkie`**
 
