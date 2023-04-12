@@ -8,7 +8,8 @@ With a strong foundation in C# .NET, HTML, and CSS, I am excited to contribute m
 
 Let's connect and discuss how I can bring my passion for software development and my professional skills to contribute to your team's success! I'm excited to embark on my career journey and make a meaningful impact in the industry.
 
----
+#
+
 ### 🛠️ Languages + Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
@@ -19,14 +20,19 @@ Let's connect and discuss how I can bring my passion for software development an
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><br><br>
 
----
+#
+
+### 💬 Find me on Socials
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-@chrisritterdev-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://www.twitter.com/chrisritterdev) [<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn Profile-royalblue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chriswritter/)
+
+#
 
 ### 📈 Github Stats
 
