@@ -34,4 +34,4 @@ Let's connect and discuss how I can bring my passion for software development an
 
 ### 📈 Github Stats
 
-![Chris Ritter Github Stats](https://github-readme-stats.vercel.app/api?username=chriritt&show_icons=true&theme=cobalt2) 
+![Chris Ritter Github Stats](https://github-readme-stats.vercel.app/api?username=trekkie-dev&show_icons=true&theme=cobalt2) 
